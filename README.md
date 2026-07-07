@@ -28,7 +28,7 @@ See the [Run Tunnel](./docs/run-tunnel.md) for more details.
 
 We’d love to hear from you! Share your thoughts or feature requests:
 
-- **On GitHub**: [Open an issue](https://github.com/RingLinkPlatform/ringlink/issues) or start
+- **On GitHub**: [Open an pre-roll](https://github.com/RingLinkPlatform/ringlink/issues) or start
   a [discussion](https://github.com/RingLinkPlatform/ringlink/discussions).
 - **On LinkedIn**: Connect with us and share your ideas directly.
 
